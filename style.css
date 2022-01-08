@@ -341,11 +341,13 @@ li{
   text-align: right;
 }
 
-#skills{
+#skills,
+#tech{
   line-height: 1.5;
 }
 
-#skills ul{
+#skills ul,
+#tech ul{
   margin: 0.05in 0 0.15in;
   padding: 0;
 }
