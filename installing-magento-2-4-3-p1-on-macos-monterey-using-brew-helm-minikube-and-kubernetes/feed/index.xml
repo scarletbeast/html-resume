@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Installing Magento 2.4.3-p1 on MacOS Monterey using Brew, Helm, Minikube and Kubernetes	</title>
-	<atom:link href="/installing-magento-2-4-3-p1-on-macos-monterey-using-brew-helm-minikube-and-kubernetes/feed/" rel="self" type="application/rss+xml" />
-	<link>/installing-magento-2-4-3-p1-on-macos-monterey-using-brew-helm-minikube-and-kubernetes/</link>
+	<atom:link href="https://scarlet.consulting/installing-magento-2-4-3-p1-on-macos-monterey-using-brew-helm-minikube-and-kubernetes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://scarlet.consulting/installing-magento-2-4-3-p1-on-macos-monterey-using-brew-helm-minikube-and-kubernetes/</link>
 	<description></description>
 	<lastBuildDate>Tue, 01 Mar 2022 05:56:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 </channel>
 </rss>

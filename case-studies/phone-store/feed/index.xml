@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Phone Store	</title>
-	<atom:link href="/case-studies/phone-store/feed/" rel="self" type="application/rss+xml" />
-	<link>/case-studies/phone-store/</link>
+	<atom:link href="https://scarlet.consulting/case-studies/phone-store/feed/" rel="self" type="application/rss+xml" />
+	<link>https://scarlet.consulting/case-studies/phone-store/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Nov 2017 22:39:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 </channel>
 </rss>

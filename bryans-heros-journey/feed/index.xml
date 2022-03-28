@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Joseph Campbell&#8217;s &#8220;Hero&#8217;s Journey&#8221; and Scarlet.Consulting	</title>
-	<atom:link href="/bryans-heros-journey/feed/" rel="self" type="application/rss+xml" />
-	<link>/bryans-heros-journey/</link>
+	<atom:link href="https://scarlet.consulting/bryans-heros-journey/feed/" rel="self" type="application/rss+xml" />
+	<link>https://scarlet.consulting/bryans-heros-journey/</link>
 	<description></description>
 	<lastBuildDate>Thu, 24 Feb 2022 00:19:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 </channel>
 </rss>
